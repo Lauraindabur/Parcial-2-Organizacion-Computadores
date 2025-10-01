@@ -1,5 +1,21 @@
 # Parcial-2-Organizacion-Computadores
-Encontrar parte entera de la raíz cuadrada y tipografía en screen
+
+# Programa: Raíz Cuadrada Entera con sumas de impares
+
+Este programa calcula la **parte entera de la raíz cuadrada** de un número usando sumas sucesivas de números impares.
+
+## Cómo ejecutar
+
+1. Coloca el número de entrada en la posición **RAM[18]**.  
+
+2. Ejecuta el programa en el simulador CPUEMULATOR.  
+
+3. Cuando el programa termina, el resultado se encuentra en la posición **RAM[19]**.  
+.  
+## Notas
+- El número debe ser **no negativo**.  
+
+
 
 # Proyecto: Tipografías en Hack Assembly
 
