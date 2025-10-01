@@ -15,7 +15,7 @@ El programa permite:
 1. Abrir el **CPU Emulator** de Nand2Tetris.  
 2. Cargar el archivo `Parcial_2.asm`.  
 3. Iniciar la ejecución (`Run` o `Step`).
-   - Aparece las tres iniciales del las integrantes del grupo
+   - Aparece las tres iniciales de las integrantes del grupo
    - Presionar **SPACE** → se borra la pantalla completa. 
 5. Interactuar con el teclado (`KBD`):  
    - Presionar `A` → se dibuja la letra **A**.  
