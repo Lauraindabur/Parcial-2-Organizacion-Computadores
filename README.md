@@ -16,7 +16,6 @@ Este programa calcula la **parte entera de la raíz cuadrada** de un número usa
 - El número debe ser **no negativo**.  
 
 
-
 # Proyecto: Tipografías en Hack Assembly
 
 ##  Descripción
@@ -47,3 +46,5 @@ El programa permite:
 
 ---
 
+# Informe
+- https://eafit-my.sharepoint.com/:w:/g/personal/lindaburg_eafit_edu_co/EQ7hoCC6vMFMk2B2AZqr2v8BHbg5PPPw2FpLZOL9wqpnzw?e=daAa1q
