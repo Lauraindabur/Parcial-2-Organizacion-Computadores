@@ -8,7 +8,7 @@ Este programa en **lenguaje ensamblador de Nand2Tetris** dibuja en pantalla letr
 Cada letra se almacena como una secuencia de valores en memoria y se imprime directamente en la región de video (`SCREEN`).  
 El programa permite:  
 - Mostrar letras individuales al presionar una tecla.  
-- Ubicarlas una al lado de la otra desplazando la base de memoria.  
+- Mostrar letras conjuntas una al lado de la otra.  
 - Limpiar la pantalla al presionar la tecla **SPACE**.  
 
 ##  Ejecución
