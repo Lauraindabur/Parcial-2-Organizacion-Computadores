@@ -28,8 +28,8 @@ El programa permite:
 
 ##  Ejecución
 1. Abrir el **CPU Emulator** de Nand2Tetris.  
-2. Cargar el archivo `Parcial_2.asm`.  
-3. Iniciar la ejecución (`Run` o `Step`).
+2. Cargar el archivo `Iniciales.asm`.  
+4. Iniciar la ejecución (`Run` o `Step`).
    - Aparece las tres iniciales de las integrantes del grupo
    - Presionar **SPACE** → se borra la pantalla completa. 
 5. Interactuar con el teclado (`KBD`):  
